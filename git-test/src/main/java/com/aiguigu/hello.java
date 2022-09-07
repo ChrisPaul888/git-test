@@ -9,6 +9,7 @@ public class hello {
         System.out.println("master test");
         System.out.println("host-fix test03");
         System.out.println("push test");
+        System.out.println("pull test");
 
     }
 }
